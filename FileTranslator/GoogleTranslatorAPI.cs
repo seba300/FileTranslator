@@ -14,10 +14,10 @@ namespace FileTranslator
     //  Translated word/sentence
     class GoogleTranslatorAPI
     {
-        public static string Translate(string word, string lang)
+        public static string Translate(string word,string fLanguage, string tLanguage)
         {
-            var toLanguage = lang.ToLower();//CHOOSED LANGUAGE
-            var fromLanguage = "pl";//PL
+            var toLanguage = tLanguage.ToLower();//en
+            var fromLanguage = fLanguage.ToLower();//pl
             var url = $"http://translate.googleapis.com/translate_a/single?client=gtx&sl={fromLanguage}&tl={toLanguage}&dt=t&q={HttpUtility.UrlEncode(word)}";
             var webClient = new WebClient
             {

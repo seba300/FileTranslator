@@ -1,0 +1,266 @@
+﻿Maximální šířka 2200 mm
+LDG široký
+Maximální výška překročena na materiálu A0 (2400 mm)
+Maximální šířka překročena u produktu Triola (1400 mm)
+Maximální šířka překročena u produktu Triola 2 (1700 mm)
+Maximální výška překročena na materiálu A2 (2400 mm)
+Maximální výška překročena na materiálu A0 (2600 mm)
+Maximální výška překročena na materiálu A1 (2400 mm)
+Maximální výška překročena na materiálu A4 (2400 mm)
+Překročena maximální šířka (2400 mm)
+Maximální výška překročena na materiálu A4 / 7.1 (1800 mm)
+Byla překročena maximální výška 2400 mm
+Maximální výška překročena na A4 / 30 (1800 mm)
+Maximální výška překročena na A4 / 31 (1800 mm)
+Maximální výška překročena na A4 / 32 (1800 mm)
+Překročena maximální šířka (2400 mm)
+Maximální výška překročena na A4 / 33 (1800 mm)
+Maximální výška překročena na materiálu A5 (2400 mm)
+Maximální výška překročena na materiálu A5N / 1 (1800 mm)
+Maximální výška překročena na materiálu A5N / 2 (1800 mm)
+Maximální výška překročena na materiálu A5N / 3 (1800 mm)
+Maximální výška překročena na materiálu A5N / 4 (1800 mm)
+Maximální výška překročena na materiálu A5N / 5 (1800 mm)
+Maximální výška překročena na materiálu A5N / 6 (1800 mm)
+Maximální výška překročena na materiálu A5N / 7 (1800 mm)
+Maximální výška překročena na materiálu A5N / 8 (1800 mm)
+Maximální výška překročena na materiálu A6 (2400 mm)
+Maximální výška překročena na materiálu B1 (1700 mm)
+Maximální výška překročena na materiálu B2 (1700 mm)
+Maximální výška překročena na materiálu B3 (2100 mm)
+Grafit
+Maximální výška překročena na materiálu C1 (2400 mm)
+Překročena maximální šířka (2040 mm)
+Maximální výška překročena na materiálu C2 (1500 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2 500 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální šířka (2600 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální šířka (2400 mm)
+Povrch byl překročen
+Šířka min. (840 mm)
+PVC váha
+Krabice 137/138 jsou omezeny
+Fixace
+Překročena maximální výška (2500 mm)
+Překročena maximální šířka pro skupinu B2 (1500 mm)
+Překročena maximální šířka (2040 mm)
+Maximální výška překročena B1 (2100 mm)
+Nedostatek
+Překročena maximální šířka (2040 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální šířka (2040 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena na materiálu A0 (2600 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena na materiálu A1 (2600 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena na materiálu A2 (2600 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena na materiálu A4 (2600 mm)
+Maximální výška překročena na materiálu A5 (2600 mm)
+Maximální výška překročena na materiálu A6 (2600 mm)
+Maximální výška překročena na materiálu B1 (2400 mm)
+Překročena maximální výška B2 (2100 mm)
+Maximální výška překročena na materiálu B2 (2400 mm)
+Překročena maximální výška (2500 mm)
+Překročena maximální výška (1400 mm)
+Maximální výška překročena na materiálu B3 (2200 mm)
+Překročena maximální výška (2700 mm)
+Překročena maximální šířka (1700 mm)
+Maximální výška překročena B3 (2100 mm)
+Maximální výška překročena na materiálu B4 (1900 mm)
+Překročena maximální šířka (1800 mm)
+Maximální výška překročena na materiálu C1 (2600 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena na materiálu C2 (2000 mm)
+Maximální výška překročena B4 (2100 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena A5N (2200 mm)
+Překročena maximální výška (1800 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Překročena maximální výška (2400 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Maximální výška překročena A5N (2200 mm)
+Poskakovat
+Poskakovat
+Překročena maximální výška (2600 mm)
+Překročena maximální výška (1800 mm)
+Potrubí 60 je nutné
+Překročena maximální výška (2600 mm)
+Překročena maximální šířka (2400 mm)
+Překročena maximální výška (2300 mm)
+Potrubí 60 je nutné
+Překročena maximální výška (2100 mm)
+Pružina vyžaduje basový zámek
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (2000 mm)
+Překročena maximální výška (2200 mm)
+Překročena maximální šířka (4 000 mm)
+Překročena maximální výška (1800 mm)
+Překročena maximální výška (2450 mm)
+Překročena maximální výška (1500 mm)
+Překročena maximální šířka (1400 mm)
+Překročena maximální výška (1500 mm)
+Překročena maximální výška (4000 mm)
+Maximální šířka 1800 mm
+Překročena maximální šířka (1800 mm)
+Překročena maximální šířka (1500 mm)
+Maximální výška 2100 mm
+Zabezpečení omezeno
+Omezený výjezd níže
+150 krabic omezeno
+Krabice 165 byly omezeny
+180 krabic omezeno
+Krabice 137/138 jsou omezeny
+150 krabic omezeno
+Překročeny rozměry sítě proti komárům
+Krabice 165 byly omezeny
+Maximální výška 1850 mm
+180 krabic omezeno
+A
+Krabice 137/138 jsou omezeny
+Překročeny rozměry sítě proti komárům
+Krabice 137/138 jsou omezeny
+Maximální překročená plocha (12 m2)
+150 krabic omezeno
+Zip pouze pod klopou
+150 krabic omezeno
+Profil podpory
+Krabice 165 byly omezeny
+Potrubí 40 omezeno
+Krabice 165 byly omezeny
+180 krabic omezeno
+180 krabic omezeno
+150 krabic omezeno
+Krabice 137/138 jsou omezeny
+Krabice 137/138 jsou omezeny
+150 krabic omezeno
+Překročena maximální výška (2600 mm)
+Krabice 165 byly omezeny
+Překročena maximální šířka (2400 mm)
+Krabice 165 byly omezeny
+180 krabic omezeno
+180 krabic omezeno
+Vs pilot
+150 krabic omezeno
+Motor SEM6RMN010JET0001 oMezen
+RM
+Segment
+Omezen mOtOr SEM4KMB010SUKCE01
+Maximální výška byla překročena
+Omezen mOtOr SEM6KMB009MARS001
+Maximální výška byla překročena
+Maximální výška byla překročena
+Maximální výška byla překročena
+Maximální výška byla překročena
+Maximální výška byla překročena
+Kabelové motory
+Omezený mOtOr MOtOr VS 8/10
+Motor SEM4RMB008VERTE01 oMezený
+Altus
+Běžci PP68
+Jednotky jsou omezeny
+Motory
+Jednotky jsou omezeny
+Jednotky jsou omezeny
+Jednotky jsou omezeny
+Motor SEM6KMB020VERTE01 oMezený
+Jednotky jsou omezeny
+Žádný motor
+Jednotky jsou omezeny
+Jednotky jsou omezeny
+Jednotky jsou omezeny
+Plná zbroj na SPR
+Motor SEM6RMN020METE001 oMezen
+Motor SEM6REB030SELRA01 oMezený
+Motor SEM6RMB020VERTE01 oMezený
+Omezen mOtOr SEM6RMN030AP0LL01
+Motor SEM6KMB040VERTE01 oMezený
+Potrubí 60 omezeno
+Motor SEM6RMN040MARIN01 oMezen
+Motor s oMezenýM MotoreM Vulkan LS40 13/9
+Motor SEM6KMN050VERTE01 oMezený
+Omezený mOtOr SEM4KEB004ILM0001
+Omezen mOtOr SEM6RMN050VECTR01
+Motor SEM4KMB004ARIES01 oMezený
+Omezen mOtOr SEM4KEB009ILM0001
+Omezen mOtOr SEM4REB004ALTUS01
+Motor SEM6KEB007SELPL01 oMezený
+Motor SEM4KMB004ARIEK01 oMezený
+Omezen mOtOr SEM4REB009ALTUS01
+Omezen mOtOr SEM4REB013ALTUS01
+Omezen mOtOr SEM6KMB006S0LUS01
+Omezený mOtOr SEM6KMB010S0LUS01
+Omezen mOtOr SEM6KMB015S0LUS01
+Motor SEM6KMB020S0LUS01 oMezen
+Motor SEM6KMB030S0LUS01 oMezen
+Motor SEM6KMB006ARIAN01 oMezen
+Motor SEM6KMB010JET0001 oMezen
+Motor SEM6REB040SELRA01 oMezený
+Omezen mOtOr SEM6KMB015ATLAS01
+Motor SEM6KEB010SELPL01 oMezený
+Motor SEM6KMB020METE001 oMezen
+Motor SEM6KMB025GEMIN01 oMezen
+Motor SEM6KEB015SELPL01 oMezen
+Motor SEM6KMB030HELI001 oMezený
+Omezen mOtOr SY137VEGA0000B001
+Motor SEM6KMB040MARIN01 oMezen
+Motor SEM6KEB020SELPL01 oMezený
+Omezen mOtOr SEM6KMB050VECTR01
+Motor SEM6KEB006ILM0001 oMezen
+Motor SEM6KEB030SELPL01 oMezený
+Omezen mOtOr SEM6KEB006ILM0K01
+Motor SEM6KEB010ILM0001 oMezen
+Motor SEM6KEB040SELPL01 oMezený
+Omezený mOtOr SEM6KEB015ILM0001
+Omezen mOtOr SEM6REB0060XIMS01
+Omezený mOtOr SEM6REB0060XIM001
+Omezený mOtOr SEM6REB0100XIM001
+Překročena maximální výška (2500 mm)
+Omezený mOtOr SEM6REB0150XIM001
+Omezený mOtOr SEM6REB0200XIM001
+Omezený mOtOr SEM6REB0300XIM001
+Omezený mOtOr SEM6REB0400XIM001
+Překročena maximální šířka (2000 mm)
+Motor SEM6KMN020METE001 oMezen
+Motor SEM6REB010SELRA01 oMezen
+Motor SEM6KMN025GEMIN01 oMezený
+Omezen mOtOr SEM7KMB080SIRIU01
+Motor SEM6KMN040MARIN01 oMezen
+Omezen mOtOr SEM6KMN050VECTR01
+Omezen mOtOr SEM7KMB100TITAN01
+5%
+Motor SEM6REB015SELRA01 oMezen

@@ -1,0 +1,1500 @@
+﻿ograniczono silnik SEM7KMB120TAURU01
+ograniczono silnik SEM6REB020SELRA01
+Przekroczono szerokość maksymalną (2000mm)
+ograniczono silnik SEM7KMN060VEGA001
+prof wys
+ograniczono silnik SEM7KMN080SIRIU01
+Ograniczono rure 60
+ograniczono silnik SEM7KMN100TITAN01
+Przekroczono szerokość maksymalną (2300mm)
+ograniczono silnik SEM7KMN120TAURU01
+ograniczono silnik SEM6REB070ALTUS01
+Szerokość minimalna 450mm
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2000mm)
+Szerokość minimalna 550mm
+Ograniczono skrzynki 137/138
+Przekroczono wysokość maksymalną na materiale B3 (2200mm)
+Ograniczono skrzynki 165
+Ograniczono skrzynki 137/138
+Przekroczona maksymalną wysokość
+Przekroczono wysokość maksymalną na materiale B1 (1800mm)
+Ograniczono skrzynki 137/138
+Przekroczono wysokość maksymalną na materiale C2 (1600mm)
+Ograniczono skrzynki 165
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 165
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 150
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+AAA
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 180
+Przekroczono wysokość maksymalną (1400mm)
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczona skrzynki
+Ograniczono skrzynki 165
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczona skrzynki
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczona skrzynki
+Ograniczona skrzynki
+fiksacja
+AAA
+Ograniczona skrzynki
+Przekroczono szerokość maksymalną
+Ograniczona skrzynki
+Ograniczona skrzynki
+AAA
+Ograniczona skrzynki
+Ograniczono napędy
+Przekroczona maksymalną wysokość
+Radiowe - Altus
+Przekroczona maksymalną wysokość
+Ograniczono napędy ręczne
+Przekroczona maksymalną wysokość
+Ograniczenia związane z PUTZ
+Przekroczona maksymalną wysokość
+aaa
+Przekroczona maksymalną wysokość
+Ograniczono napędy
+Przekroczona maksymalną wysokość
+a
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczono szerokość maksymalną
+Przekroczono wysokość maksymalną (1400mm)
+AAA
+Przekroczono szerokość maksymalną [1500mm]
+Przekroczono wysokość maksymalną (1700mm)
+AAA
+Asia 89
+Ograniczono siliniki na fi 70
+Przekroczono wysokość maksymalną [2200mm]
+Ograniczono skrzynki 170
+Ograniczono wieszaki blokady
+Przekroczono powierzchnie maksymalną [1,5m]
+Ograniczono sprężyne VRZNSN40040000001
+kolory DN
+Ograniczono moskitiery
+Przekroczono wymiary dla PA39
+Ograniczono moskitiery
+Ograniczono skrzynki 210
+Przekroczono powierzchnię maksymalną [2,5m2]
+Ograniczono sprężyne VRZNSN40060000001
+Przekroczono szerokość maksymalną [2200mm]
+Ograniczono napędy ręczne
+Przekroczono wymiary dla PA39
+Przekroczono wymiary dla PA39
+Ograniczono prowadnice Alu.
+Ograniczono prowadnice Alu.
+Przekroczono wymiary dla PA39
+pasywny 
+ograniczenie prowadnic
+Ograniczono sprężyne VRZNSN40100000001
+Ograniczono skrzynki 240
+Ograniczono boki drewnopodobne
+Ograniczono skrzynki 170
+Ograniczono sprężyne VRZNSN40150000001
+Ograniczono skrzynki 210
+Ograniczono sprężyne VRZNSN40170000001
+Ograniczono ACE 1/7
+Ograniczono sprężyne VRZNSN40240000001
+Ograniczono skrzynki 240
+Ograniczono sprężyne VRZNSN40300000001
+Ograniczono skrzynki 250
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono ACE 1/10
+Ograniczono skrzynki 210
+Ograniczono sprężyne VRZNSN60120000001
+Ograniczono skrzynki 210
+Ograniczono sprężyne VRZNSN60150000001
+Ograniczono sprężyne VRZNSN60180000001
+Ograniczono skrzynki 240
+Ograniczono skrzynki 240
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 210
+Ograniczono skrzynki 210
+Ograniczono skrzynki 137/138 @@@@@@@@
+Ograniczono skrzynki 210
+Ograniczono skrzynki 165
+Ograniczono skrzynki 240
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 240
+Ograniczono kombinacje
+Ograniczono skrzynki 240
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 240
+Ograniczono zabudowe w.
+Ograniczono skrzynki 137/138
+Ograniczono prowadnice Alu.
+Ograniczono skrzynki 150
+Ograniczono skrzynki 180
+Ograniczono skrzynki 150
+Ograniczono skrzynki 180
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Przekroczono wyskokość maksymalną
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Przekroczono wymiary dla PA41
+Przekroczona maksymalną wysokość
+Przekroczono maksymalne wymiary
+Przekroczona maksymalną wysokość
+Przekroczono wymiary dla PA41
+Przekroczona maksymalną wysokość
+AAA
+Przekroczona maksymalną wysokość
+Dopłata za lak skrzynki TAK
+Ograniczona skrzynki 165
+Ograniczona skrzynki
+Dopłata za lak skrzynki NIE
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono rure 70
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono rure 40
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 210
+Ograniczono skrzynki 240
+Ograniczono skrzynki 240
+Ograniczono wieszaki blokady
+Ograniczono wieszaki blokady
+Ograniczono skrzynki 205
+Ograniczono skrzynki 250
+Ograniczono prowadnice PP89
+Ograniczono skrzynki 300
+Dopłata za lakiet NIE
+Ograniczono rure 60
+Dopłata za lakiet TAK
+Przekroczono wysokość max.
+Ograniczono prowadnice PP66
+Ograniczono prowadnice PP89
+Ograniczono prowadnice PP75
+Ograniczono skrzynki 250
+Ograniczono wyjście dołem
+Ograniczono skrzynki 300
+Przekroczono wysokość max.
+Ograniczono kolor skrzynek 05
+Dopłata za lakier skrzynki NIE
+ograniczono silnik SEM4KEB013ILM0001
+Dopłata za lakier skrzynki TAK
+Ograniczenia związane z moskitiera ramkowa i kołnieżowa
+fix
+fix
+Ograniczono wieszaki blokady
+Ograniczenia związane z moskitiera ramkowa i kołnieżowa
+Ograniczenia związane z moskitiera ramkowa i kołnieżowa
+Ograniczenia związane z moskitiera ramkowa i kołnieżowa
+Przekroczono szerokość maksymalną (1500mm)
+spring
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1400mm)
+Spring
+Maksymalna różnica szerokości wewnętrznych to 30 mm
+Maksymalna różnica szerokości wewnętrznych to 1000 mm
+Spring
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (1500mm)
+wybierz talarzyki
+Ograniczono sprężyne VRZNSN60180000001
+ograniczono silnik SEM7KMB100VX00001
+ograniczono silnik SEM7KMN100VS00001
+ograniczono silnik SEM6REB020VS00001
+Ograniczono sprężyne VRZNSN60180000001
+Wysokość do 180cm
+nie można bez profilu
+napęd ręczny
+Przekroczone wymiary dla moskitiery
+ograniczono silnik SEM6KEB006AUJOB01
+brak białej
+ograniczono silnik SEM6KMB008JOB0801
+ograniczono silnik SEM6KEB010AUJOB01
+ograniczono silnik VS-M6KMB010-JOB08-01
+ograniczono silnik SEM6KEB015AUJOB01
+ograniczono silnik SEM6KMB015JOB0801
+ograniczono silnik SEM6RMN050VERTE01
+ograniczono silnik SEM6RMB050VERTE01
+Ograniczono zamówienie specjalne
+ograniczono silnik SEM6KMN020METE001
+ograniczono silnik SEM7KMN140VS00001
+luisa el
+Błąd wymiarowania DOD
+Ograniczono wyjścia NHK 
+Błąd wymiarowania DOD
+Pełny pancerz przy 1-stronnym lakierowaniu na mokro
+Ograniczono naiwrcanie prowadnic
+Ograniczono napedy podtynkowe i nawinięte
+Ograniczenia zamka baskwilowego do 500mm
+Błąd wymiarowania DOD
+Błąd wymiarowania DOD
+Ograniczenia zamka baskwilowego do 750mm
+Błąd wymiarowania DOD
+Ograniczenia zamka baskwilowego do 1050mm
+Błąd wymiarowania DOD
+Passionata Plus kolory 
+Passionata Plus DN kolory [pasywny] [or]
+Kątowniki
+Kątowniki
+Ograniczono siliniki na fi 40
+ograniczono silnik SEM6KMN010JET0001
+ograniczono silnik SEM6KEB030ILM0001
+ograniczono silnik SEM4RMB0K8VERTE01
+ograniczono silnik SEM6REB0060XII001
+ograniczono silnik SEM6REB0100XII001
+ograniczono silnik SEM6REB0150XII001
+ograniczono silnik SEM6REB0200XII001
+Ograniczony moskitiere
+Ograniczono płytki
+Ograniczono płytki
+kolory
+Stella kolory
+Przekroczono maksymalne wymiary
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 205
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 240
+Ograniczono skrzynki 165
+Ograniczono skrzynki 205
+Ograniczono skrzynki 260
+Ograniczona skrzynki
+Ograniczona skrzynki
+Ograniczona skrzynki
+Ograniczono skrzynki 250
+wykreślono napinacz, hamulec, obciążnik łańcuszka i fiksacje
+wyłączenie obciążnika łańcuszka
+wykreslono cięcią obciążnika
+Wyłacznie obciążnika przy metalowym
+Wyłaczenie wyboru obiążnika łańcuszka przy silniku i metalowym łańcuszku
+Wyłacznie obciążnika przy silniku
+Wyłaczenie szyny skśsnej przy gońcach PCV
+Wyłacznie falbany przy obciązku - kieszonce
+Wyłaczenie niektórych modeli plis dla wybranych taknin
+Wyłączenie obciążników dla metalowego łańcuszka
+Wyłączenie wybranych typów plis dla niektórych tkanin
+Wyłączenie wybranych tkanin dla niektórych modeli plis
+Wyłączenie wybranych tkanin dla niektórych modeli plis
+Przekroczono wysokość maksymalną (4000 mm)
+Przekroczono szerokość maksymalną (4000 mm)
+Przy wyborze magnesu nie można zastosować fiksacji i kątownika rynny dolnej
+Dla tkaniny Venezia w rolcecie Bellisima stosuje się tylko specjalny obciażnik
+Przekroczono maksymalną szerokość (2700 mm)
+Przekroczono maksymalną szerokość (2700 mm)
+Przekroczono maksymalną szerokość dla piórek Rustic Ash (2400 mm)
+Materiał nie może być szerszy niż wyrób 
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2050 mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2051mm)
+Przekroczono szerokość maksymalną (1850mm)
+Przekroczono szerokość maksymalną (1850mm)
+Przekroczono szerokość maksymalną (1850mm)
+Przekroczono szerokość maksymalną (1850mm)
+Przekroczono wysokość maksymalną (1400mm)
+ograniczono silnik SEM4REB010OINEL201
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (2000mm)
+Wyłaczenie drabinki tasmowej w żaluzji alu 50 mm
+Wyłaczenie drabinki tasmowej w żaluzji drrewno 50 mm elektrycznej
+Maksymalna różnica szerokości wewnętrznych to 5000 mm
+AAA
+Przekroczono wysokość maksymalną (2500mm)
+Przeroczono wysokość maksymalną (2800mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (1800mm)
+Ograniczono skrzynkę podtynkową
+Przekroczono wysokość maksymalną (2800 mm)
+Przekroczono szerokość maksymalną (2200 mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (2800 mm)
+Przekroczono wysokość maksymalną (2800 mm)
+Przekroczono szerokość maksymalną (1700mm)
+Przekroczono szerokość maksymalną (1700mm)
+Przekroczono szerokość maksymalną (1400mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono szerokość maksymalną (2740mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono szerokość maksymalną (2740mm)
+Przekroczono szerokość maksymalną (2740mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (3000 mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono maksymalną wysokość (3000 mm)
+Przekroczono maksymalną szerokość (2700 mm)
+Przekroczono maksymalną wysokość (3000 mm)
+Przekroczono maksymalną wysokość (3000 mm)
+Przeroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (2700 mm)
+Przekroczono szerokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (2200 mm)
+Przekroczono maksymalną wysokość (3000 mm)
+Przekroczono szerokość maksymalną (3000 mm)
+Przekroczono wysokość maksymalną (2800 mm)
+Przekroczono szerokość maksymalną (3200 mm)
+Przekroczono wysokość maksymalną (4000 mm)
+Przekroczono wysokość maksymalną (4000 mm)
+Przekroczono szerokość maksymalną (3200 mm)
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 180
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 240
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 240
+Ograniczono skrzynki 170
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 210
+Ograniczono skrzynki 240
+Ograniczono skrzynki 240
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 260
+Ograniczono skrzynki 165
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczona skrzynki 245
+Ograniczona skrzynki 245
+Ograniczona skrzynki 245
+Ograniczona skrzynki
+Ograniczona skrzynki 245
+Ograniczona skrzynki 245
+Laser Blinds dostępne tylko przy A2
+Nie można stosowac prowadnic przy obciążniku Bellisima
+Wyłączenie części sterowań przy silniku VS 8/10
+Przekroczono szerokość maksymalną Laser Blinds (2000 mm)
+Wyłączenie części sterowań przy silniku VS 8/10 RTS
+Wyłączenie części sterowań przy silniku Sonesse 40 RTS
+ograniczono silnik SEM4KMB010SUKCE01
+Wyłączenie części sterowań przy silniku Mars
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 180
+Przekroczono wymiary dla PA77
+ograniczono silnik SEM4KMB010SUKCE01
+ograniczono silnik SE-M6KEB020-VERT2-01
+Wyłaczenie niektórych silników przy dwóch ramionach markizy
+ograniczono silnik SE-M4REB010-VERTE-10
+Wyłaczenie niektórych silników przy trzech i czterech ramionach markizy
+Wyłaczenie niektórych silników przy trzech i czterech ramionach markizy
+Wyłaczenie niektórych silników przy dwóch ramionach markizy
+Przekroczono wysokość maksymalną (2000mm)
+ograniczono silnik SEM6REB020-VERTE-01
+Wyłaczenie niektórych silników przy dwóch ramionach markizy (do szerokości 5370)
+Wyłaczenie niektórych silników przy dwóch ramionach markizy (powyżej szerokości 5370)
+Wyłaczenie niektórych silników przy trzech i czterech ramionach markizy
+Przekroczono wysokość maksymalną (1400mm)
+ograniczono silnik SEM4KEB010VERT201
+ograniczono silnik SEM4REB0060XII001
+ograniczono silnik SEM6REB0150XIM001
+ograniczono silnik SEM6REB020T52HZ01
+ograniczono silnik SEM4REB0040XII001 
+ograniczono silnik SEM6REB006RS10001
+ograniczono silnik SEM4REB010VERT201
+ograniczono silnik SEM6REB010RS10001
+ograniczono silnik SEM6REB015RS10001
+Ograniczenie wyboru wieszaków przy zastosowaniu maskownicy
+ograniczono silnik SEM6REB0200XII001
+ograniczono silnik SEM6REB020RS10001 
+Wyłączenie wyboru wieszaków maskownicy w żaluzji bez maskownicy
+Przekroczono maksymalną szerokość (1500mm)
+Przekroczono maksymalną wysokość (2200mm)
+Wyłaczenie wyboru pilotów przy silnika na przełącznik w Largo
+Wyłaczenie wyboru części elektroniki po wybraniu silnika VS 8/10 R w Largo 
+Wyłaczenie wyboru części elektroniki po wybraniu silnika Sonesse 40 PA 6/20 RTS w Largo 
+Wyłaczenie wyboru prowadnicy alu 30 i alu 37 przy osprzecie PCV
+Wyłaczenie wyboru prowadnicy PCV przy osprzęcie innym niż PCV
+ograniczono silnik SEM6REB006WT10001
+ograniczono silnik SEM6REB010WT10001
+ograniczono silnik SEM6REB015WT10001
+ograniczono silnik SEM6REB020WT10001 
+Laser Blinds tylko przy A2
+Przekroczono szerokość maksymalną Laser Blinds (2000 mm)
+Brak rury 32 mm dla rolety Modern Premium
+Przekroczono maksymalną szerokość dla wersji Modern Premium (2000mm)
+Przekroczono powierzchnię maksymalną (4 m2)
+Przekroczono wysokość maksymalną na materiale A2 (2600mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono wysokość maksymalną na materiale A4 (2600mm)
+Przekroczono wysokość maksymalną na materiale A5 (2600mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono powierzchnię maksymalną (4 mm)
+Przekroczono wysokość maksymalną na materiale A6 (2600mm)
+ograniczono silnik SEM6KEB020-VERTE-01
+Przekroczono powierzchnie maksymalną przy zwykłym mechanizmie (4 m2)
+Przekroczono wysokość maksymalną na materiale B2 (1800mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono powierzchnie maksymalną przy mechanizmie Monomagic (5 m2)
+Przekroczono wysokość maksymalną na materiale B4 (1700mm)
+Przekroczono wysokość maksymalną na materiale C1 (2600mm)
+Przekroczono powierzchnię maksymalną (4 m2)
+Przekroczono powierzchnię maksymalną (4 m2)
+Przekroczono powierzchnię maksymalną (4 m2)
+Przekroczono powierzchnia maksymalną (4 m2)
+Przekroczono powierzchnię maksymalną (2,5 m2)
+Przekroczono powierzchnię maksymalną (2,5 m2)
+Przekroczono powierzchnię maksymalną (2,5 m2)
+Przeroczono powierzchnię maksymalną przy sterowaniu ręcznym (5 m2)
+Przekroczono szerokosć maksymalną (2400mm)
+Przeroczono powierzchnię maksymalną przy sterowaniu ręcznym (5 m2)
+Przeroczono powierzchnię maksymalną przy sterowaniu elektrycznym (2,5 m2)
+Przekroczono szerokosć maksymalną (2000mm)
+Przekroczono powierzchnia maksymalną (9 m2)
+Przekroczono powierzchnię maksymalną (6 m2)
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (2,5 m2)
+Przekroczono powierzchnię maksymalną przy sterowaniu elektrycznym (2 m2)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono maksymalną powierzchnię (2 m2)
+Przekroczono powierzchnię maksymalną (5 m2)
+Przekroczono powierzchnię maksymalną (5 m2)
+Przekroczono maksymalną powierzchnię (5 m2)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono powierzchnię maksymalną (5 m2)
+Przekroczono wysokość maksymalną na materiale B4 (1700mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną na materiale A1 (2600mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (4000mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (4000mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono powierzchnię maksymalną (12 m2)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną dla grupy B3 (1500mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną dla grupy B4 (1500mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (2100mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2700mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2700mm)
+Przekroczono wysokość maksymalną (2550mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2450mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono maksymalną szerokość (2400mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2100mm)
+Przekroczono maksymalną wysokość (2600mm)
+Przekroczono maksymalną wysokość (2400mm)
+Przekroczono maksymalną wysokość (2100mm)
+Przekroczono maksymalną wysokość (2800mm)
+Przekroczono maksymalną wysokość (2400mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2500 mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2500 mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2500 mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2100mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1850mm)
+Przekroczono wysokość maksymalną (2600mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (4000 mm)
+Przekroczono szerokość maksymalną (4000 mm)
+Przekroczono powierzchnię maksymalną (12 m2)
+Przekroczono powierzchnię maksymalną (12 m2)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1700mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (1400mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono wysokość maksymalną (1200mm)
+Przekroczono szerokość maksymalną (1600mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono wysokość maksymalną (2500mm)
+Przekroczono szerokość maksymalną (1600mm)
+Przekroczono wysokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono wysokość maksymalną (2200mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (1600mm)
+Przekroczono wysokość maksymalną (1800mm)
+Przekroczono wysokość maksymalną (1600mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (1600mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (1300mm)
+Przekroczono wysokość maksymalną (2400mm)
+Przekroczono wysokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (1500mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono wysokość maksymalną (3000mm)
+Przekroczono wysokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (1350mm)
+Przekroczono szerokość maksymalną (2700mm)
+Przekroczono szerokość maksymalną (4050mm)
+Przekroczono szerokość maksymalną (5400mm)
+Przekroczono szerokość maksymalną (2700mm)
+Przekroczono szerokość maksymalną (5400mm)
+Przekroczono szerokość maksymalną (6750mm)
+Przekroczono szerokość maksymalną (4500mm)
+Przekroczono szerokość maksymalną (8100mm)
+ograniczono silnik SEM6REB010WXIM001
+Ograniczona skrzynki
+Ograniczona skrzynki
+Ograniczona skrzynki
+Ograniczona skrzynki
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczona skrzynki 245
+Ograniczona skrzynki
+Ograniczona skrzynki 245
+Ograniczona skrzynki 245
+ograniczono silnik SEM6REB008T50HZ01
+ograniczono silnik SEM6REB010T50HZ01 
+ograniczono silnik SEM6REB020T50HZ01
+ograniczono silnik SEM6REB015T50HZ01 
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Ograniczono skrzynki 260
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (1600mm)
+Wymagana rura 60
+Wymagana rura 60
+Wymagana rura 60
+Wymagana rura 60
+Wymagana rura 60
+Wymagana rura 60
+Wymagana rura 60
+Ograniczono skrzynki 170
+Dla tych kolorów piórek pokrętło 150mm (od 100 do 150 mm) jest niedostępne
+Wymagana rura 60
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Przekroczona maksymalną wysokość
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 180
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 165
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 150
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Ograniczono skrzynki 137/138
+Przekroczono wyskokość maksymalną
+Przekroczono wyskokość maksymalną
+Przekroczono wyskokość maksymalną
+Przekroczono wyskokość maksymalną
+Przekroczono wyskokość maksymalną
+Minimalna szerokośc wynosi 2700 mm
+Minimalna szerokośc wynosi 3600 mm
+Minimalna szerokośc wynosi 5000 mm
+Dla prowadnicy typ 1 nie stosuje się uchytów prowadnic
+Przy braku prowanicy nie stosuje się uchytów prowadnic
+Przy prowanicy PT nie stosuje się uchytów prowadnic
+Dla prowadnicy typ 1 nie stosuje się uchytów prowadnic
+Dla prowadnicy typ PT nie stosuje się uchytów prowadnic
+Przy braku prowanicy nie stosuje się uchytów prowadnic
+Dla systemu samonośnego są specjalne prowadnice i uchwyty
+Dla profila kątowego wymagana jest prowadnica typ 1
+Dla profila kątowego wymagana jest prowadnica typ 1
+Ograniczono moskitiery
+Przy braku systemu samonośnego nie stosuje się prowadnic i uchwytów typu S
+Dla blach kryjących 190 mm i 240 mm dostępne boczki to 240 mm
+Dla blach kryjących 290 mm i 340 mm dostępne boczki to 340 mm
+Dla blach kryjących 390 mm i 440 mm dostępne boczki to 440 mm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono Wysokość maksymalna (4000 mm)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Od szerokości 2601 mm wymagany jest wieszak metalowy
+Od wysokości 2601 mm wymagany jest wieszak metalowy
+W tym zakresie wieszak metalowy jest za dopłatą
+Wyłączenie dopłaty od szerokości 2401 mm
+Wyłączenie dopłaty od szerokości 2401 mm
+Wyłączenie dopłaty od szerokości 3401 mm
+Wyłączenie rury 50 przy rurze 60
+Wyłączenie rury 60 przy rurze 50
+Przekroczono szerokość maksymalną (2000mm)
+Wyłączenie dopłaty pomiędzy szerokości 2401 a 3401 mm
+Przekroczono szerokość maksymalną (2250mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2450mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2450mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2380mm)
+Przekroczono szerokość maksymalną (2210mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2080mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (2400mm)
+Błąd wymiarowania DOD
+Ograniczono skrzynki 170
+Błąd wymiarowania DOD
+Ograniczono skrzynki 170
+Ograniczono skrzynki 210
+Ograniczono skrzynki 210
+Przekroczono wysokość maksymalna (4000 mm)
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Moskitera tylko przy prowadnicach PG10
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Przekroczono wysokość maksymalna (4000 mm)
+Przekroczono szerokość maksymalna (4000 mm)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Szerokość podwieszania skrzydła 
+zabezpieczenie uchwyt
+Minimalna szerokośc wynosi 5001 mm
+Minimalna szerokośc wynosi 3500 mm
+Minimalna szerokośc wynosi 2500 mm
+Ograniczono skrzynki 145
+Minimalna szerokośc wynosi 3000 mm
+Minimalna szerokośc wynosi 2900 mm
+Minimalna szerokośc wynosi 3500 mm
+Ograniczono skrzynki 145
+Minimalna szerokośc wynosi 5000 mm
+Minimalna szerokośc wynosi 2500 mm
+Minimalna szerokośc wynosi 3000 mm
+Minimalna szerokośc wynosi 3601 mm
+Minimalna szerokośc wynosi 3500 mm
+Minimalna szerokośc wynosi 5000 mm
+Minimalna szerokośc wynosi 3900 mm
+Minimalna szerokośc wynosi 3601 mm
+Minimalna szerokośc wynosi 4191 mm
+Minimalna szerokośc wynosi 4791 mm
+Minimalna szerokośc wynosi 5371 mm
+Minimalna szerokośc wynosi 5371 mm
+Minimalna szerokośc wynosi 5981 mm
+Minimalna szerokośc wynosi 3000 mm
+Minimalna szerokośc wynosi 3101 mm
+Minimalna szerokośc wynosi 4201 mm
+Minimalna szerokośc wynosi 4801 mm
+Minimalna szerokośc wynosi 5401 mm
+Minimalna szerokośc wynosi 5991 mm
+Przekroczono szerokość maksymalną dla grupy Zakhyntos (2500mm)
+Minimalna szerokośc wynosi 3010 mm
+Minimalna szerokośc wynosi 3610 mm
+Przekroczono szerokość maksymalną dla grupy Venezia (2750mm)
+Minimalna szerokośc wynosi 4200 mm
+Przekroczono szerokość maksymalną dla grupy Sun Wave (2850mm)
+Przekroczono szerokość maksymalną dla grupy Spring (2400mm)
+Przekroczono szerokość maksymalną dla grupy Scandinavian Night (2800mm)
+Przekroczono szerokość maksymalną dla grupy Screen (2500mm)
+Przekroczono szerokość maksymalną dla grupy Monaco (2600mm)
+Przekroczono szerokość maksymalną dla grupy Marina (2600mm)
+Przekroczono szerokość maksymalną dla grupy Lunica (2700mm)
+Przekroczono szerokość maksymalną dla grupy Fiji (2750mm)
+Przekroczono szerokość maksymalną dla grupy Cedro (2400mm)
+Przekroczono szerokość maksymalną dla grupy C2 (2500mm)
+Przekroczono szerokość maksymalną dla grupy C1 (2000mm)
+Przekroczono szerokość maksymalną dla grupy B4 (1950mm)
+Przekroczono szerokość maksymalną dla grupy B3 (2000mm)
+Minimalna szerokośc wynosi 3600 mm
+Przekroczono szerokość maksymalną dla grupy B2 (2000mm)
+Przekroczono szerokość maksymalną dla grupy B1 (2000mm)
+Przekroczono szerokość maksymalną dla grupy B0 (2000mm)
+Przekroczono szerokość maksymalną dla grupy Aroso (2700mm)
+Przekroczono szerokość maksymalną dla grupy A5 (1950mm)
+Przekroczono szerokość maksymalną dla grupy A4 (2000mm)
+Przekroczono szerokość maksymalną dla grupy A2 (2000mm)
+Przekroczono szerokość maksymalną dla grupy A1 (2000mm)
+Przekroczono szerokość maksymalną dla grupy A0 (1800mm)
+Od szerokości 1500 mm wymagany jest profil rozporowy
+Od wysokości 1800 mm wymagany jest profil rozporowy
+Od wysokości 1800 mm wymagany jest profil rozporowy
+Od szerokości 1800 mm wymagany jest profil rozporowy
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (3000mm)
+Przekroczono szerokość maksymalną (2500mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2150mm)
+Przekroczono szerokość maksymalną (2150mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2100mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2050mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2000mm)
+Przekroczono szerokość maksymalną (2150mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2020mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2200mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2350mm)
+Przekroczono szerokość maksymalną (2300mm)
+Przekroczono szerokość maksymalną (2400mm)
+Przekroczono szerokość maksymalną (2350mm)
+Minimalna szerokość wynosi 1960 mm
+Minimalna szerokość wynosi 2410 mm
+Minimalna szerokość wynosi 2410 mm
+Minimalna szerokość wynosi 2900 mm
+Minimalna szerokośc wynosi 4100 mm
+Minimalna szerokośc wynosi 4600 mm
+Przy wyborze listwy QF Fix nie można zastosować klasycznej fiksacji
+Maksymalna szerokość żaluzji z moskitierą wynosi 1600 mm
+Maksymalna wysokosć żaluzji z moskitierą wynosi 2500 mm
+Maksymalna powierzchnia żaluzji z moskitierą wynosi 3m2
+Maksymalna powierzchnia żaluzji z moskitierą wynosi 3m2
+Maksymalna szerokość żaluzji z moskitierą wynosi 1600 mm
+Maksymalna wysokosć żaluzji z moskitierą wynosi 2500 mm
+Ograniczono skrzynkę półokrągłą
+Ograniczono skrzynkę standard 100x100
+Ograniczono skrzynkę standard 125x125
+Ograniczono skrzynkę standard 138x138
+Przekroczono wysokość maksymalna (2500 mm)
+Przekroczono wymiary dla PA77
+Przekroczono szerokość minimalną (240 mm)
+Przekroczono szerokość minimalną (240 mm)
+Przekroczono szerokość minimalna (240mm)
+ograniczono silnikSY137810K000VS001
+ograniczono silnik SEM4KEB010VERTE01 
+ograniczono silnik SEM6REB0060XIIS01
+ograniczono silnik SEM4REB010VERTE10
+ograniczono silnik SEM6KMN010JET0001
+ograniczono silnik SEM6KEB020VERTE01
+ograniczono silnik SEM6KEB020VERT201
+ograniczono silnik SEM6REB020VERTE01
+ograniczono silnik SEM6REB017SHAT501
+ograniczono silnik SEM7KMB060VEGA001
+Ograniczono kolor dla skrzynki pustej standard 150
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono Wysokość maksymalna (4000 mm)
+Od szerokości 2601 mm wymagany jest wieszak metalowy
+Od wysokości 2601 mm wymagany jest wieszak metalowy
+Błąd wymiarowania DOD
+Ograniczono ldg
+ograniczono silnik SEM4KMB003MERCU01
+ograniczono silnik SEM4REB013T35HZ01
+ograniczono silnik SEM4REB009T35HZ01
+ograniczono silnik SEM4REB004T35HZ01
+ograniczono silnik SEM6REB035T50HZ01
+ograniczono silnik SSEM6REB050T50HZ01
+ograniczono silnik SEM6REB010T52HZ01
+ograniczono silnik SEM6REB015T52HZ01
+ograniczono silnik SEM6REB008T52HZ01
+ograniczono silnik SEM6REB025T50HZ01
+ograniczono silnik SEM6REB0300XII001
+ograniczono silnik SEM6REB030SUNIL01
+ograniczono silnik SEM6REB0400XII001
+ograniczono silnik SEM6REB040ALTUS01
+Tylko profil do 80mm przy moskitierze
+Prowadnice PP68
+Przekroczono max szerokość pancerza dla PP68
+Przekroczono wymiary dla PA39
+Przekroczono wymiary dla PA39
+ograniczono plytke dla t5
+silnik zawiera w zestawie
+ograniczono wieszaki blokady dla silników
+ograniczono wieszaki dla silników 40
+ograniczono zabierak dla t5
+ograniczono adaptery dla T5
+pierscienie dla wieszaka lok
+ograniczono ilosc pierscienie
+ rewizja dla zabudowy wewnetrzej cleverbox szeroki
+Przy kombinacji nie można stosować prowadnic typ 2
+ograniczona przeguby
+Ograniczono rure 60
+Ograniczono grupe materiałową Allegro
+Ograniczono grupe materiałową B3
+Ograniczono grupe materiałową Optimum
+Ograniczono grupe materiałową B1, B2
+Ograniczono grupe materiałową Crush
+Ograniczono grupe materiałową Simple
+Ograniczono grupe materiałową B4
+Ograniczono grupe materiałową Crush Pearl
+Ograniczono grupe materiałową Metalic
+Ograniczono grupe materiałową Presto Print
+Ograniczono grupe materiałową Opera
+Ograniczono grupe materiałową Cara Perlmutt Color
+Ograniczono grupe materiałową Bali
+Ograniczono grupe materiałową Tosca Pearl
+Ograniczono grupe materiałową Aida Print
+Ograniczono grupe materiałową Samoa
+Ograniczono grupe materiałową Retro
+Konfiguracja wystawki dla żaluzji fasadowej
+Ograniczono grupe materiałową California Shine(2271,2272,2273)
+Ograniczono grupe materiałową California Shine(951,952,953)
+Ograniczono grupe materiałową C2
+Ograniczono grupe materiałową Ovale
+Ograniczono grupe materiałową Capri Pearl
+Ograniczono grupe materiałową Porto
+Ograniczono grupe materiałową Porto Pearl
+Ograniczono grupe materiałową Terrazzo
+Ograniczono grupe materiałową Milan
+Ograniczono grupe materiałową Ester
+Ograniczono grupe materiałową Paloma Duoplisso
+Ograniczono grupe materiałową Moon Blackout
+Ograniczono grupe materiałową Luggio Duoplisso
+Ograniczono grupe materiałową A0, A1, A2, A4, A5, A6, C1 KENIA
+Ograniczono grupe materiałową B3
+Ograniczono grupe materiałową B1, B2, B4
+Ograniczono grupe materiałową C2
+Ograniczono grupe materiałową ZAKYNTHOS, SPRING, AROSO
+Ograniczono grupe materiałową A0, A1, A2, A4, A5, A6, C1 KENIA
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+ograniczenie korb dla sk350
+Wyłączenie silnika 6 Nm
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+ograniczenie korb dla zamek nhk
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 10 Nm
+brak zabezpieczenia sztywny wieszak
+Wyłączono automatyczny dobór drabinek
+Wyłączenie silnika 10 Nm
+Wyłączono automatyczny dobór drabinek
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+brak ocji zasuwki i rygla dla PA55
+Wyłączenie wieszaków metalowych przy profilu nośnym
+ograniczenie oska dla sk350
+Minimalna szerokość powinna wynosić 600 mm)
+Błąd wymiarowania DOD
+Dla prowadnicy typ P nie stosuje się uchytów prowadnic
+brak koloru
+Dla prowadnicy typ P nie stosuje się uchytów prowadnic
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Ograniczono skrzynki 145
+Przekroczono szerokość maksymalna (4000 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Ograniczono skrzynki 145
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Ograniczono skrzynki 210
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Ograniczono skrzynki 210
+Wyłączenie silnika 10 Nm
+Ograniczono skrzynki 170
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Ograniczono skrzynki 170
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 6 Nm
+brak koloru szarego tylko ral
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Maksymalna wysokosć żaluzji z moskitierą wynosi 2500 mm
+Maksymalna szerokość żaluzji z moskitierą wynosi 1600 mm
+Maksymalna powierzchnia żaluzji z moskitierą wynosi 3m2
+Minimalna szerokość powinna wynosić 600 mm)
+Przekroczono wysokość maksymalna (4000 mm)
+Minimalna szerokość powinna wynosić 600 mm)
+Przekroczono szerokość maksymalna (4000 mm)
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 10 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Wyłączenie silnika 6 Nm
+Przekroczono powierzchnię maksymalną przy sterowaniu ręcznym (8 m2)
+Maksymalna wysokosć żaluzji z moskitierą wynosi 2500 mm
+Maksymalna szerokość żaluzji z moskitierą wynosi 1600 mm
+Maksymalna powierzchnia żaluzji z moskitierą wynosi 3m2
+maksymalna wysokość przy sterowaniu
+maksymalna wysokość przy sterowaniu
+Pakiet nie zmieści się w skrzynce(2200 mm)
+Pakiet nie zmieści się w skrzynce( 1800 mm)
+Pakiet nie zmieści się w skrzynce( 2100 mm)
+Pakiet nie zmieści się w skrzynce( 2500 mm)
+Szerokość blachy kryjącej jest zwiększona o 40mm w stosunku do szerokości pakietu
+Szerokość blachy kryjącej jest zwiększona o 40mm w stosunku do szerokości pakietu
+maksymalna wysokość przy sterowaniu
+maksymalna wysokość przy sterowaniu
+Przekroczono max szerokość pancerza dla PP45
+Ograniczono rodzaj okna "Pozostałe"
+Od wysokości 1800 mm wymagany jest profil rozporowy
+Od szerokości 1800 mm wymagany jest profil rozporowy
+ograniczono SEM6REB0130XII001
+ograniczona przegub dla poziomo
+ograniczona przegub 90 dla pionowe
+ograniczona oska
